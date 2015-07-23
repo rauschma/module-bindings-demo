@@ -1,0 +1,5 @@
+{
+    "scripts" : {
+        "transpile" : "babel --modules common --out-dir commonjs_transpiled es6_for_babel"
+    }
+}
